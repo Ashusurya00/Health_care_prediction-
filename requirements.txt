@@ -9,4 +9,7 @@ soundfile
 numpy
 torch    
 matplotlib
+
 seaborn
+
+streamlit-option-menu
